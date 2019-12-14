@@ -1,0 +1,10 @@
+{
+  "passwords": {
+    "saltRounds": 10
+  },
+  "jwtToken": {
+    "accessTokenExpiresIn": 160000,
+    "refreshTokenExpiresIn": 1600000,
+    "secretKey": "secretKey"
+  }
+}
